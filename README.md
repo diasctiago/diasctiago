@@ -22,4 +22,4 @@ PostgreSQL     | Python      | Talend  | Tableau               | SAP
 MySQL          | R           | Pentaho | Lumira                | Sienge ERP
 Firebird       | SQL         |         | QlikView              | Nydus RH
 SQLite         |             |         | PowerBI               | Git
-||||LaTeX
+|||||LaTeX
