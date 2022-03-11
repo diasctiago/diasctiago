@@ -1,13 +1,21 @@
 # Tiago Dias
 
-Apaixonado por dados e tecnologia, amante das inovações tecnológicas que facilitam a vida humana! Graduado em Engenharia da Computação, pós-graduado em MBA Gestão da Informação e Business Intelligence, experiência na área de implantação de sistemas, migração de dados, análise de dados e todas as etapas dos processos de BI, prática com as principais ferramentas de mercado. Nas horas vagas crio modelos de Machine Learning com Python em desafios do Kaggle e Zindi, e escrevo em um blog sobre Data Science!
+Apaixonado por dados e tecnologia ❤️ , amante das inovações tecnológicas que facilitam a vida humana! Com formação em Engenharia da Computação 💾 , MBA Gestão da Informação e Business Intelligence e Especialização em Data Science.
+
+Criando soluções com dados 📊 📈 , desde 2015, sempre buscando tornar os processos orientados a dados. Nas horas vagas crio modelos de Machine Learning 🤖 com Python em desafios do Kaggle e escrevo no Dados ao Cubo sobre o mundo dos dados 🎲 ! 
+
+Compartilhando conhecimentos sempre 🚀
 
 ## Conhecimentos
 
-Banco de Dados | Programação |   ETL   | Visualização de Dados | Outros
--------------- | ----------- | --------| --------------------- | ------
-PostgreSQL     | Python      | Talend  | Tableau               | SAP
-MySQL          | R           | Pentaho | Lumira                | Sienge ERP
-Firebird       | SQL         |         | QlikView              | Nydus RH
-SQLite         |             |         | PowerBI               | Git
-|||||LaTeX
+Database     | Programação |   ETL             | DataViz      |ML            | Cloud    | Big Data  | Outros
+------------ | ----------- | ------------------| -------------|--------------| -------- |-----------| ------
+PostgreSQL   | Python      | Talend            | Tableau      | Scikit‑Learn |  AWS     | Hadoop    | SAP
+SQLServer    | SQL         | Pentaho           | Lumira       | TensorFlow   |  IBM     |           | Sienge ERP
+Oracle       | R           | SAP BW            | QlikView     | NLP          |          |           | Nydus RH
+Hive         |             | Analysis Services | PowerBI      |              |          |           | Git
+MySQL        |             | Power Center      | BEx Query    |              |          |           | LaTeX
+Firebird     |             | Airflow           | Metabase     |              |          |           | API              
+SQLite       |             |                   | Data Studio  |              |          |           |               
+MongoDB      |             |                   |              |              |          |           |               
+Cassandra    |             |                   |              |              |          |           |         
